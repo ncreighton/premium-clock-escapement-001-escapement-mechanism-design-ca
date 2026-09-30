@@ -1,0 +1,2 @@
+# premium-clock-escapement-001-escapement-mechanism-design-ca
+Tired of recalculating escapement geometry in spreadsheets or CAD, losing hours to manual adjustments? The Escapement Mechanism Design Calculator eliminates the guesswork—giving you instant, precision calculations for any clock escapement design.  This Notion template transforms complex escapement mechanism design into a streamlined, visual workflo
